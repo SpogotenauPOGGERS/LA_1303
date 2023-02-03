@@ -1,0 +1,59 @@
+GET http://localhost:5000/allShoes
+
+###
+
+GET http://localhost:5000/shoe/477472a6-722f-4845-831f-b2b4056943a5
+
+###
+POST http://localhost:5000/addShoe
+content-type: application/json
+
+{
+    "name": "Nike Dunk Hugo Cracki",
+    "release": 2022,
+    "colorWay": "Green/Red",
+    "price": 69
+}
+
+###
+PUT http://localhost:5000/changeShoe/477472a6-722f-4845-831f-b2b4056943a5
+content-type: application/json
+
+
+{
+    "name": "Nike Dunk gillete Cracki",
+    "release": 1012,
+    "colorWay": "Green/Red",
+    "price": 62
+}
+
+###
+DELETE http://localhost:5000/deleteShoe/477472a6-722f-4845-831f-b2b4056943a5
+
+
+###
+POST http://localhost:5000/register
+Content-Type: application/json
+
+{
+    "name": "Tim",
+    "password": "passwort"
+}
+
+###
+GET  http://localhost:5000/users
+
+###
+
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "name": "Tim",
+    "password": "passwort"
+}
+
+###
+
+GET http://localhost:5000/posts
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGltIiwicGFzc3dvcmQiOiIkMmIkMTAkaUtaaHhLZGZKYlA2ZnJoTkw1US9oT3dCWXdiTTEzdTUzSG9JU2wvbmQwQWdRZnZOMWZUbmkiLCJpYXQiOjE2NzQyMDc4MTF9.ZH2t0qQl4qIlg1H8-tEwR8xzyAeEaOb_OaVznzJjMuE

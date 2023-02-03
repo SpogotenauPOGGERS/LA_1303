@@ -1,0 +1,58 @@
+export default [
+  {
+    id: "477472a6-722f-4845-831f-b2b4056943a5",
+    name: "Nike Dunk Low Retro, White Black Panda",
+    release: 2021,
+    colorWay: "BLACK/WHITE",
+    price: 163,
+  },
+  {
+    id: "a4769e9c-ff4d-4833-b37c-f6f29b3fd264",
+    name: "Nike SB Dunk Low, Sandy Bodecker",
+    release: 2022,
+    colorWay: "WHITE/HYPER ROYAL/MEAN GREEN",
+    price: 202,
+  },
+  {
+    id: "13e19059-f0ba-4b6b-a38a-480199fb3ca5",
+    name: "Nike Dunk Low SE, Lottery Pack Malachite Green",
+    release: 2022,
+    colorWay: "PALE IVORY/MALACHITE/BLACK",
+    price: 177,
+  },
+  {
+    id: "d6d09297-0b65-4463-a637-4ac15574b503",
+    name: "Nike SB Dunk Low, Concepts Bluew Lobster",
+    release: 2009,
+    colorWay: "NIGHTSHADE/DARK SLATE",
+    price: 8733,
+  },
+  {
+    id: "94d106dd-db35-4a99-8d21-8ac483d9d608",
+    name: "Nike Dunk Low, Valerian Blue",
+    release: 2022,
+    colorWay: "VALERIAN BLUE/WHITE/UNIVERSITY RED/VALERIAN BLUE",
+    price: 211,
+  },
+  {
+    id: "2b8419fd-94d8-45a9-bdac-183bf0a62681",
+    name: "Nike SB Dunk Low, Los Angeles Dodgers",
+    release: 2022,
+    colorWay: "DEEP ROYAL BLUE/WHITE-SPORT RED-GUM LIGHT BROWN",
+    price: 290,
+  },
+  {
+    id: "56620afe-a67f-44e5-afe9-276d09f24332",
+    name: "Nike SB Dunk Low, Court Purple",
+    release: 2021,
+    colorWay: "COURT PURPLE/BLACK/WHITE",
+    price: 312,
+  },
+  {
+    id: "c2b1733b-f1e9-4d65-a3ea-322649504bf1",
+    name: "Nike SB Dunk Low, Skate Like a Girl",
+    release: 2022,
+    colorWay: "SUMMIT WHITE/BARELY ROSE/UNIVERSITY RED/COCONUT MILK/BLACK",
+    price: 208,
+  },
+];
